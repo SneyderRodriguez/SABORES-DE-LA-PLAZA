@@ -18,7 +18,7 @@ La aplicación está construida utilizando HTML5, CSS3 y Bootstrap 5, garantizan
 
 ## ✨ Características del proyecto
 
-El sitio cuenta con diferentes secciones orientadas a presentar mi perfil profesional:
+El sitio cuenta con diferentes secciones orientadas a presentación del colectivo gastronómico:
 
 * 🏠 **Página Principal (Inicio):** Presentación del colectivo gastronómico con banner hero, carruseles de productos destacados y sección de preguntas frecuentes (FAQ) integradas.
 * 🏬 **Catálogo de Puestos:** Visualización modular en tarjetas (Cards) de las distintas categorías del mercado.
