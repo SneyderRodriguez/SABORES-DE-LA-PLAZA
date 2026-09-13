@@ -10,7 +10,7 @@
 
 ## 📌 Sobre el proyecto
 
-Sabores de la Plaza es un sitio web enfocado en conectar a los usuarios con la oferta de productos frescos y preparados de la plaza de mercado local. Ofrece una experiencia interactiva para explorar diferentes categorías de puestos (Fruver, Panaderías, Restaurantes, Heladerías), consultar tablas de precios y realizar pedidos en línea a través de formularios dedicados.
+**Sabores de la Plaza** es un sitio web enfocado en conectar a los usuarios con la oferta de productos frescos y preparados de la plaza de mercado local. Ofrece una experiencia interactiva para explorar diferentes categorías de puestos (Fruver, Panaderías, Restaurantes, Heladerías), consultar tablas de precios y realizar pedidos en línea a través de formularios dedicados.
 
 La aplicación está construida utilizando HTML5, CSS3 y Bootstrap 5, garantizando un diseño totalmente adaptativo (responsive), accesible desde cualquier dispositivo
 
