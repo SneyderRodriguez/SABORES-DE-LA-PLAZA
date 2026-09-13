@@ -107,7 +107,7 @@ Si deseas conocer más sobre mis proyectos o contactar conmigo profesionalmente:
 
 * **GitHub:** [SneyderRodriguez](https://github.com/SneyderRodriguez)
 * **LinkedIn:** [Sneyder Rodríguez](https://www.linkedin.com/in/sneyder-rodriguez-ingeniero-de-sistemas/)
-* **proyecto:** [sneyderrodriguez.netlify.app](https://sneyderrodriguez.netlify.app/)
+* **Portafolio:** [sneyderrodriguez.netlify.app](https://sneyderrodriguez.netlify.app/)
 
 ---
 
