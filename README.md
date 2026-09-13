@@ -16,7 +16,7 @@ La aplicación está construida utilizando HTML5, CSS3 y Bootstrap 5, garantizan
 
 ---
 
-## ✨ Características del portafolio
+## ✨ Características del proyecto
 
 El sitio cuenta con diferentes secciones orientadas a presentar mi perfil profesional:
 
@@ -107,7 +107,7 @@ Si deseas conocer más sobre mis proyectos o contactar conmigo profesionalmente:
 
 * **GitHub:** [SneyderRodriguez](https://github.com/SneyderRodriguez)
 * **LinkedIn:** [Sneyder Rodríguez](https://www.linkedin.com/in/sneyder-rodriguez-ingeniero-de-sistemas/)
-* **Portafolio:** [sneyderrodriguez.netlify.app](https://sneyderrodriguez.netlify.app/)
+* **proyecto:** [sneyderrodriguez.netlify.app](https://sneyderrodriguez.netlify.app/)
 
 ---
 
